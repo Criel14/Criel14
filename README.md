@@ -1,4 +1,6 @@
-## Hi I'm Criel 👋
+## Hi I'm Criel! 🍊
+
+<br/>
 
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Criel14&show_icons=true&theme=apprentice&count_private=true&rank_icon=github"/>
