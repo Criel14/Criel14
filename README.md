@@ -1,5 +1,5 @@
 ## Hi I'm Criel! 🍊 
 
-🕹️ Play 15Puzzle: https://criel14.github.io/
+🕹️ Play 15 Puzzle or Snake Game: https://criel14.github.io/
 
 📮 Email: chencriel@qq.com
